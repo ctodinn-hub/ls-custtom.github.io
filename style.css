@@ -1,0 +1,105 @@
+﻿ 			/* Шапка сайта*/
+ .header {
+ 	background-color: #1a1a1a;
+ 	padding: 20px;
+ }
+ .header h1 {
+ 	color: #ffffff;
+ 	margin: 0;
+ }
+ .header ul {
+ 	list-style-type: none;
+ 	padding: 0;
+ 	text-align: center;
+ }
+ .header li {
+ 	display: inline;
+ 	margin-right: 20px;
+ 	color: #ffffff;
+ }
+
+ 
+
+ 			/* банер */
+
+ .banner {
+ 	background-color: #2d2d2d;
+ 	color: #ffffff;
+ 	text-align: center;
+ 	padding: 60px 20px;
+ }
+ .banner h1 {
+ 	font-size: 40px;
+ 	margin: 0;
+
+ }
+ .banner p {
+ 	font-size: 20px;
+ }
+ 
+
+ 			/* каталог*/
+ .catalog {
+ 	padding: 40px 20px;
+ 	text-align: center;
+
+ }
+ .catalog h2 {
+ 	font-size: 32px; 	
+ }
+
+ .catalog p {
+ 	font-size: 18px;
+ 	color: #666;
+ }
+
+ 			/* сетка карточек */
+
+ .product-list {
+ 	margin-top: 30px; 	
+ }			
+ .product-item {
+ 	width: 23%;
+ 	float: left;
+ 	margin: 1%;
+ 	background-color: #f4f4f4;
+ 	border: 1px solid #ddd;
+ 	padding: 15px;
+ 	text-align: center;
+ }
+ .product-item img {
+ 	width: 100%;
+ 	height: auto;
+ }
+ .product-item h3 {
+ 	font-size: 18px;
+ 	margin: 10px 0 5px;
+ }
+ .product-item p {
+ 	margin: 5px 0;
+ 	font-size: 14px;
+ 	color: #333;
+ }
+ .product-item button {
+ 	background-color: #1a1a1a;
+ 	color: #fff;
+ 	border: none;
+ 	padding: 8px 16px;
+ 	margin-top: 10px;
+ }
+
+
+ 			/*podval*/
+ .footer {
+ 	background-color: #1a1a1a;
+ 	color: #ffffff;
+ 	text-align: center;
+ 	padding: 30px 20px;
+ 	margin-top: 30px;
+ 	clear: both;
+ }
+
+ .footer p {
+ 	margin: 5px 0;
+ 	font-size: 14px;
+ }			
